@@ -1,0 +1,8 @@
+.corner-badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: yellow;
+  padding: 5px;
+  font-weight: bold;
+}
